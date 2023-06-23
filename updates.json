@@ -26,42 +26,46 @@
           "version": "3.0.0",
           "update_link": "https://das82.com/downloads/comfortable_panda-3.0.0-fx.xpi"
         },
-	{
-	  "version": "3.0.3",
-	  "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.0.3-fx.xpi"
-	},
-	{
-	  "version": "3.2.0",
-	  "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.2.0-fx.xpi"
-	},
-	{
-	  "version": "3.3.1",
-	  "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.3.1-fx.xpi"
-	},
-	{
-	  "version": "3.4.3",
-	  "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.4.3-fx.xpi"
-	},
-	{
-	  "version": "3.5.1",
-	  "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.5.1-fx.xpi"
-	},
-	      {
-		"version":"4.1.0",
-		"update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-4.1.0-fx.xpi"
-	      },
-	      {
-		"version": "5.0.0",
-		"update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.0.0-fx.xpi"
-	      },
-	      {
-		"version":"5.0.1",
-		"update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.0.1.xpi"
-	      },
-	      {
-		"version":"5.1.0",
-		"update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.1.0.xpi"
-	      }
+        {
+          "version": "3.0.3",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.0.3-fx.xpi"
+        },
+        {
+          "version": "3.2.0",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.2.0-fx.xpi"
+        },
+        {
+          "version": "3.3.1",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.3.1-fx.xpi"
+        },
+        {
+          "version": "3.4.3",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.4.3-fx.xpi"
+        },
+        {
+          "version": "3.5.1",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-3.5.1-fx.xpi"
+        },
+        {
+          "version": "4.1.0",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-4.1.0-fx.xpi"
+        },
+        {
+          "version": "5.0.0",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.0.0-fx.xpi"
+        },
+        {
+          "version": "5.0.1",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.0.1.xpi"
+        },
+        {
+          "version": "5.1.0",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.1.0.xpi"
+        },
+        {
+          "version": "5.1.4",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.1.4.xpi"
+        }
       ]
     }
   }
