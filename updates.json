@@ -45,6 +45,10 @@
         {
           "version": "5.1.4",
           "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.1.4.xpi"
+        },
+        {
+          "version": "5.2.1",
+          "update_link": "https://tinaxd.github.io/comfortable-panda-firefox-updates/comfortable_panda-5.2.1.xpi"
         }
       ]
     }
